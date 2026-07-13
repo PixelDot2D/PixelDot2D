@@ -1,4 +1,4 @@
-Senior Unity Developer | Architectural Systems
+Senior Unity Developer | Core System Architect
 Specializing in Decoupled Frameworks
 With 8+ years of experience in Unity, our design philosophy focuses on Modular decoupled logic. PixelDot2D builds Lego-like structures where systems are on-use rather than hard-wired.
 
