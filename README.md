@@ -1,6 +1,8 @@
 Senior Unity Developer | Core System Architect
 
-PixelDot2D handles the plumbing, optimization, and architectural complexity so you can build gameplay through simple, reusable APIs.
+Simple to use. Simple to extend. Complexity stays under the hood.
+
+PixelDot2D handles the architecture, optimization, memory management, and system plumbing behind simple, reusable APIs — giving you more time to focus on gameplay, creativity, and building the parts of your game you enjoy most.
 
     Support: For inquiries regarding our Store tools, please contact PixelDot2D@gmail.com.
     Note: Legacy repositories have been archived to maintain focus on current framework development.
